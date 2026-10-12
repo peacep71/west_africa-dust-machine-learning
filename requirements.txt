@@ -1,0 +1,13 @@
+numpy
+pandas
+xarray
+netCDF4
+scipy
+pyarrow
+scikit-learn
+lightgbm
+joblib
+matplotlib
+shap
+minisom
+cartopy
